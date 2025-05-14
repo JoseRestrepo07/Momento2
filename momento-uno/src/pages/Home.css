@@ -1,0 +1,47 @@
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .banner {
+    background-color: #cce5ff;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .services-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .services-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .service-card {
+    border: 1px solid #aaa;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .service-card button {
+    margin-top: 10px;
+    padding: 8px 12px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
